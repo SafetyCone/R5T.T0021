@@ -1,4 +1,4 @@
-R5T.T0021 - FileNames instance for use as a base for extension methods.
+R5T.T0021 - IFileName, IFilePath, IDirectoryName, and IDirectoryPath empty interfaces for use as extension method bases. Includes instance implementations.
 
 Goals
 
