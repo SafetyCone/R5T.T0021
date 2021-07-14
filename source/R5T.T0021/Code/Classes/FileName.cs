@@ -1,9 +1,7 @@
 ﻿using System;
 
-using R5T.T0021;
 
-
-namespace System
+namespace R5T.T0021
 {
     /// <summary>
     /// Simple implementation of <see cref="IFileName"/>.
