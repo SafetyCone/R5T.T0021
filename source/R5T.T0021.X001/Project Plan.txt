@@ -1,0 +1,5 @@
+R5T.T0021.X001 - Simple (and Magyar)-based extensions for the IFileName, IFilePath, IDirectoryName, and IDirectoryPath extension method bases.
+
+
+Goals
+
