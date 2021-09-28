@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Magyar", "..\..\R5T.Magyar\source\R5T.Magyar\R5T.Magyar.csproj", "{BC2D8712-2CE7-424D-843E-794F986DFC53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0021.X002", "R5T.T0021.X002\R5T.T0021.X002.csproj", "{8B32A049-F365-4EC1-B0A7-2F2178800610}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,18 @@ Global
 		{BC2D8712-2CE7-424D-843E-794F986DFC53}.Release|x64.Build.0 = Release|Any CPU
 		{BC2D8712-2CE7-424D-843E-794F986DFC53}.Release|x86.ActiveCfg = Release|Any CPU
 		{BC2D8712-2CE7-424D-843E-794F986DFC53}.Release|x86.Build.0 = Release|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Debug|x64.Build.0 = Debug|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Debug|x86.Build.0 = Debug|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Release|x64.ActiveCfg = Release|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Release|x64.Build.0 = Release|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Release|x86.ActiveCfg = Release|Any CPU
+		{8B32A049-F365-4EC1-B0A7-2F2178800610}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
