@@ -1,12 +1,15 @@
 ﻿using System;
 
+using R5T.T0039.T002;
+
 
 namespace R5T.T0021
 {
     /// <summary>
     /// Empty interface to serve as an extensions method base.
     /// </summary>
-    public interface IDirectoryPath
+    [ExtensionMethodBaseMarker]
+    public interface IFilePath
     {
     }
 }
