@@ -11,7 +11,7 @@ namespace R5T.T0021
     {
         #region Static
 
-        public static FileName Instance { get; } = new();
+        public static IFileName Instance { get; } = new FileName();
 
         #endregion
     }

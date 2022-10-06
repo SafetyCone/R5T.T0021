@@ -10,7 +10,7 @@ namespace R5T.T0021
     {
         #region Static
         
-        public static RelativeDirectoryPath Instance { get; } = new();
+        public static IRelativeDirectoryPath Instance { get; } = new RelativeDirectoryPath();
 
         #endregion
     }

@@ -7,7 +7,7 @@ namespace R5T.T0021
     {
         #region Static
 
-        public static DirectoryPath Instance { get; } = new();
+        public static IDirectoryPath Instance { get; } = new DirectoryPath();
 
         #endregion
     }

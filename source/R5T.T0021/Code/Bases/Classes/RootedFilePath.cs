@@ -10,7 +10,7 @@ namespace R5T.T0021
     {
         #region Static
         
-        public static RootedFilePath Instance { get; } = new();
+        public static IRootedFilePath Instance { get; } = new RootedFilePath();
 
         #endregion
     }

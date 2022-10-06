@@ -10,7 +10,7 @@ namespace R5T.T0021
     {
         #region Static
         
-        public static Path Instance { get; } = new();
+        public static IPath Instance { get; } = new Path();
 
         #endregion
     }
